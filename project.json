@@ -1,0 +1,22 @@
+{
+  "name": "dead-by-daylight-loadout-toolkit",
+  "displayName": "Dead by Daylight Loadout Toolkit",
+  "programType": "loadout-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character groups",
+    "Loadout profiles",
+    "Session notes"
+  ],
+  "topics": [
+    "dead-by-daylight-loadout-toolkit",
+    "dead-by-daylight-tools",
+    "dead-by-daylight-menu",
+    "dead-by-daylight-settings",
+    "dead-by-daylight-configs",
+    "dead-by-daylight-character-groups",
+    "dead-by-daylight-loadout-profiles"
+  ]
+}
