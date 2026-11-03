@@ -47,3 +47,4 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Dead by Daylight Loadout Toolkit · Program documentation and download information.
+                                                                                                    
